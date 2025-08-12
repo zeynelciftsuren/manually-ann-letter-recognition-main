@@ -28,13 +28,6 @@ The application allows users to:
 ### 3. Predefined Training Sets
 The application includes three variations of training data for letters A, B, C, D, and E. Each training set represents different patterns of the same letters to improve the neural network's ability to generalize.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/haydarkadioglu/manually-ann-letter-recognition.git
-   ```
-2. Open the project in Visual Studio.
-3. Build and run the project.
 
 ## Usage
 
@@ -78,7 +71,3 @@ The application includes three variations of training data for letters A, B, C, 
 - Introduce additional letters or custom patterns.
 - Add performance metrics like accuracy and confusion matrix.
 
-
-## Contact
-For any questions or suggestions, feel free to reach out:
-- **GitHub:** [haydarkadioglu](https://github.com/haydarkadioglu)
